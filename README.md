@@ -1,3 +1,4 @@
+[Drive link]: https://github.com/Harshiniem/devops_task_project/edit/master/README.md
 DevOps Assignment
 
 This project demonstrates the implementation of basic DevOps practices including server setup, containerized application deployment, monitoring automation, access control, and firewall configuration using AWS EC2 and Docker.
