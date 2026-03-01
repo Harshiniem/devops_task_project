@@ -1,6 +1,6 @@
-[Drive link]: https://github.com/Harshiniem/devops_task_project/edit/master/README.md
+[Drive link]: https://drive.google.com/file/d/1fi6EiwXRLPUidmvN_MRJa3an3II9nlVv/view?usp=drive_link
 DevOps Assignment
-[Drive link] : https://drive.google.com/file/d/1fi6EiwXRLPUidmvN_MRJa3an3II9nlVv/view?usp=drive_link
+
 This project demonstrates the implementation of basic DevOps practices including server setup, containerized application deployment, monitoring automation, access control, and firewall configuration using AWS EC2 and Docker.
 
 In Task 1, an Amazon Linux EC2 instance was created on AWS and secure remote access was configured using SSH key-based authentication. Passwordless login was verified by reconnecting to the server using the generated key pair.
